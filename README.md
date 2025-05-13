@@ -1,2 +1,2 @@
-# paulster-dev.github.io
+# paulster.github.io
 A site for my stuff
