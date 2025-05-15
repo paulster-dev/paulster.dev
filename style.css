@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse');
+
+body{
+  background-image: linear-gradient(90deg, #fbfdd8, #e6fce4);
+}
+
+h1 {
+  font-family: "Boldonse", sans-serif;
+  font-size: 40px;
+  padding-left: 10%;
+  color: #5AAFF5;
+}
